@@ -1,12 +1,6 @@
 
 /*
 	Author : SURYA HALDER
-
-    
-    "I'm so lost in this problem, I might need a GPS to find my way out."
-	"My love I know you are reading my code to get a path out of your errors, just like your presence in my life is a path out my errors,
-	so please talk instead of ignoring me"
-	"I may die today but for sure will be reborn tommorow like the phoenix"...
 */
 
 #include <bits/stdc++.h>
